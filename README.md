@@ -6,6 +6,9 @@ The visualization provides insights into various aspects of the data science ind
 Users can interact with the visualizations by selecting filters such as job role, industry, and programming languages. The dashboard provides a comprehensive overview of the current state of the data science industry and can be used by job seekers, hiring managers, and industry analysts to gain valuable insights into the field.
 
 
+ Data was sourced from Alex Freberg known as Alex the Analyst on YouTube. This project was inspired by Him.
+
+
 
 Data Professional Survey Analysis
 
