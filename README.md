@@ -13,4 +13,5 @@ Users can interact with the visualizations by selecting filters such as job role
 Data Professional Survey Analysis
 
 
-![image](https://user-images.githubusercontent.com/100426585/221846634-7cdec0c9-c8c6-4042-9831-a22d9090422f.png)
+![Data Professional Survey Analysis image ](https://user-images.githubusercontent.com/100426585/228053640-0d6faf85-a3f2-453e-ac3b-adbbcecfa179.png)
+
